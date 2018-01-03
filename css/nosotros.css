@@ -1,0 +1,71 @@
+/* Inserta tu codigo aqui */
+
+.fond-img-nosotros {
+    	background-image: url(../img/cubes.png);
+
+       /*  background: linear-gradient(to bottom, #003366 0%, #ccffff 100%); */
+
+   /* background: linear-gradient(to bottom, #99ffcc 0%, #ff9933 100%);*/
+   
+	height: 500px;	
+}
+.par-nosotr {
+	background-color: rgba(1, 1, 1, 0.4);
+	padding: 30px;
+	height: 300px;	
+	width: 500px;
+	padding-bottom: 30px;
+	padding-top: 10px;
+	margin-top: 120px;
+	margin-left: 200px;
+}
+.parf {
+	margin-top: -20px;
+}
+.fond-art-nosot {
+	background-image: url(../img/cubes.png);
+	height: 500px;	
+}
+.pilar {
+	width: 250px;
+	margin-top:80px; 
+}
+.instructores p {
+    margin-top: -30px;
+}
+.imgs-instructores {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.profesor_4 {
+    background-image: url("../img/profesor_4.jpg");
+}
+.profesor_14 {
+    background-image: url("../img/profesor_14.jpg");
+}
+.profesor_1 {
+    background-image: url("../img/profesor_1.jpg");
+}
+.profesor_10 {
+    background-image: url("../img/profesor_10.jpg");
+}
+.profesor_11 {
+    background-image: url("../img/profesor_11.jpg");
+}
+.profesor_12 {
+    background-image: url("../img/profesor_12.jpg");
+}
+.profesor_9 {
+    background-image: url("../img/profesor_9.jpg");
+}
+.profesor_15 {
+    background-image: url("../img/profesor_15.jpg");
+}
+.art-frase-isp {
+    background-image: url("../img/cubes.png");
+    padding: 50px 0;
+}
+.frase-isp {
+    font-size: 40px;
+}
